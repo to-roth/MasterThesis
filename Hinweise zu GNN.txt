@@ -1,0 +1,7 @@
+Werte normalisieren bei Trainingsdaten: Mittelwert abziehen und durch Standartabweichung teilen
+
+keine Aktivierungsfunktion im letzten Layer
+
+Für Ausblick:
+
+- quantencomputing nützlich bei quantenmechanischen system wie vorhersage von potentialfläche

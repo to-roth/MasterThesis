@@ -1,0 +1,19 @@
+=============
+   Qiskit
+=============
+>> https://qiskit.org/documentation/getting_started.html
+>> https://qiskit.org/learn
+	* Introduction 
+	* Variational algorithm design
+	* Quantum Machine Learning
+	* Anything else you're interested
+>> https://qiskit.org/documentation/tutorials.html
+>> If you are interested: 2021 Qiskit summer school on QML: https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021
+
+
+===================
+   Pennylane
+===================
+>> https://pennylane.ai/qml/demos/tutorial_qgrnn
+>> https://pennylane.ai/qml/demonstrations/quantum-machine-learning
+	* anything what interests you

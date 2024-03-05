@@ -1,0 +1,110 @@
+\documentclass[
+    a4paper,
+    12pt,
+    bibliography = totoc,
+    listof = totoc,
+    listof = nochaptergap,
+]{scrreprt}
+
+
+% ================== Packages =================== %
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx} % images
+\usepackage{subcaption}
+\graphicspath{ {./images/} }
+\usepackage[top = 2.5 cm, bottom = 2.5 cm, left = 2.5cm, right = 2.5cm]{geometry}
+\usepackage[T1]{fontenc} % correct encoding of european accent letters like ä, ö, ...
+\usepackage{lmodern}
+\usepackage{helvet}
+\setkomafont{disposition}{\normalcolor\bfseries} % standard CM
+\usepackage{amsmath}
+\usepackage{float} % images
+\usepackage{color}
+\usepackage{abstract}
+\usepackage[toc]{appendix}
+\usepackage{makecell}
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{amsmath}  % for \hookrightarrow
+\usepackage{xcolor}   % for \textcolor
+\usepackage[headsepline=0.75pt,footsepline=0.75pt]{scrlayer-scrpage}
+\newcommand{\secref}[1]{\textit{\ref{#1} \nameref{#1}}} % custom citation
+\addtokomafont{disposition}{\sffamily}
+%\renewcommand*\sectfont{\sffamily\bfseries}
+\usepackage{wrapfig} % Move tables and images
+\usepackage[onehalfspacing]{setspace} % 1.5 spacing between lines
+\usepackage{lipsum} % test page layout with lorem ipsum text
+\usepackage[style=ieee, citestyle=numeric-comp, url=false]{biblatex}
+\usepackage{tabularx}
+\usepackage{enumitem, amssymb}
+\usepackage{bm}
+\usepackage{multirow}
+\addbibresource{Literatur.bib}
+\AtBeginDocument{\renewcommand{\bibname}{References}}
+\usepackage[
+    pdftitle = {214882-MasterThesis},
+    pdfauthor = {Tobias Roth},
+    hidelinks,
+    citecolor = white
+]{hyperref}
+
+%=========== Checklist ==============%
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\cmark}}%
+\hspace{-2.5pt}}
+\newcommand{\wontfix}{\rlap{$\square$}{\large\hspace{1pt}\xmark}}
+
+
+% ============ Glossary ===============
+\usepackage{acronym}
+
+% =========== global document settings ===========
+% do not indent paragraphs
+\setlength{\parindent}{0pt} \setcounter{figure}{0}
+\DeclareTOCStyleEntry[indent=0pt]{tocline}{figure}
+\DeclareTOCStyleEntry[indent=0pt]{tocline}{table}
+
+%========= Beginn des Dokuments ==========%
+
+\begin{document}
+\pagestyle{empty}
+\pagenumbering{gobble}
+\include{Deckblatt.tex}
+\include{Erklaerung.tex}
+%\include{Danksagung.tex}
+\include{Abstract.tex}
+
+%============ Verzeichnisse =================%
+\cfoot{\pagemark}
+\pagenumbering{Roman}
+{\sffamily\tableofcontents}
+\include{Abkuerzungsverzeichnis.tex}
+{\sffamily\listoffigures}
+{\sffamily\listoftables}
+\newpage
+
+%============ Contents ===================%
+\pagestyle{scrheadings}
+\renewcommand\chapterpagestyle{scrheadings}
+\automark[chapter]{chapter}
+\chead{\rightmark}
+\cfoot{\pagemark}
+\pagenumbering{arabic}
+\include{01_Introduction.tex}
+\include{02_paper1-literaturanalyse.tex}
+\include{03_paper2-qnns.tex}
+\include{04_summary.tex}
+%============ Literature ================%
+\pagestyle{plain}
+\renewcommand*{\chapterpagestyle}{plain}
+\clearpairofpagestyles
+\cfoot[\pagemark]{\pagemark}
+\pagenumbering{Roman}
+\setcounter{page}{6}
+\printbibliography
+
+%\include{05_appendix.tex}
+
+\end{document}

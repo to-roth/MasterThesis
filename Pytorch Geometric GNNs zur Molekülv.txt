@@ -1,0 +1,4 @@
+Pytorch Geometric GNNs zur Molekülvorhersage
+
+- DimeNet
+- DimeNet++

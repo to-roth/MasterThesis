@@ -1,0 +1,1976 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{amin_hydrogen_2022}{article}{}
+      \name{author}{8}{}{%
+        {{hash=5ef77f9178fd2163c5fd8d46c464e1c0}{%
+           family={Amin},
+           familyi={A\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=69e0c3cda12bbefd7bcfbcbfce87e379}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Hamad\bibnamedelima Hussain},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=59591cec781b7b6b7a140fb45e40bc4b}{%
+           family={Fareed},
+           familyi={F\bibinitperiod},
+           given={Anaiz\bibnamedelima Gul},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d5ca4974beb205be4afec9a23fb6443e}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Wasim\bibnamedelima Ullah},
+           giveni={W\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=197540fd5ed140dc446270b65729cb10}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Eunhyea},
+           giveni={E\bibinitperiod}}}%
+        {{hash=55565b287abdbbaf432b483dd3229486}{%
+           family={Zia},
+           familyi={Z\bibinitperiod},
+           given={Adeel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a6613c26a2e3f8d764e268a5146ef464}{%
+           family={Rahman\bibnamedelima Farooqi},
+           familyi={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Zia\bibnamedelima Ur},
+           giveni={Z\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=51b2fb52ceba92172c56292b505987ce}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Chaehyeon},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf731614cf79f21d05d0cee2322da5e7}
+      \strng{fullhash}{27c20ff4672f61bedcd6f43e83f92569}
+      \strng{bibnamehash}{cf731614cf79f21d05d0cee2322da5e7}
+      \strng{authorbibnamehash}{cf731614cf79f21d05d0cee2322da5e7}
+      \strng{authornamehash}{cf731614cf79f21d05d0cee2322da5e7}
+      \strng{authorfullhash}{27c20ff4672f61bedcd6f43e83f92569}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The urbanization and increase in the human population has significantly influenced the global energy demands. The utilization of non-renewable fossil fuel-based energy infrastructure involves air pollution, global warming due to CO2 emissions, greenhouse gas emissions, acid rains, diminishing energy resources, and environmental degradation leading to climate change due to global warming. These factors demand the exploration of alternative energy sources based on renewable sources. Hydrogen, an efficient energy carrier, has emerged as an alternative fuel to meet energy demands and green hydrogen production with zero carbon emission has gained scientific attraction in recent years. This review is focused on the production of hydrogen from renewable sources such as biomass, solar, wind, geothermal, and algae and conventional non-renewable sources including natural gas, coal, nuclear and thermochemical processes. Moreover, the cost analysis for hydrogen production from each source of energy is discussed. Finally, the impact of these hydrogen production processes on the environment and their implications are summarized.}
+      \field{issn}{0360-3199}
+      \field{journaltitle}{International Journal of Hydrogen Energy}
+      \field{month}{9}
+      \field{number}{77}
+      \field{title}{Hydrogen production through renewable and non-renewable energy processes and their impact on climate change}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{47}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{33112\bibrangedash 33134}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/j.ijhydene.2022.07.172
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\AVAMAR4D\\S0360319922032244.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360319922032244
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360319922032244
+      \endverb
+      \keyw{Cost,Environment,Hydrogen,Non-renewable,Renewable}
+    \endentry
+    \entry{kilkis_research_2019}{article}{}
+      \name{author}{7}{}{%
+        {{hash=1f665be83401a8695fc7abf541cf35b2}{%
+           family={Kılkış},
+           familyi={K\bibinitperiod},
+           given={Şiir},
+           giveni={Ş\bibinitperiod}}}%
+        {{hash=51050ba017d0c5ca16018f5902a0712e}{%
+           family={Krajačić},
+           familyi={K\bibinitperiod},
+           given={Goran},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d7bc55bf21af1ec7edd99c35995c5616}{%
+           family={Duić},
+           familyi={D\bibinitperiod},
+           given={Neven},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7706b46d2d03cbda999781fa57be96df}{%
+           family={Montorsi},
+           familyi={M\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a59c83836d95287cc03be92a8076e3e6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qiuwang},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=7b351caa398155c5ca6fff5145a8ef41}{%
+           family={Rosen},
+           familyi={R\bibinitperiod},
+           given={Marc\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6dd1fd06ea1e534d4995abbafc02b4dc}{%
+           family={Ahmad\bibnamedelima Al-Nimr},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinithyphendelim N\bibinitperiod},
+           given={Moh'd},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{023a487cc17d8ec36323dda696d2f08d}
+      \strng{fullhash}{1bb5abead974b523508d12a2d920285a}
+      \strng{bibnamehash}{023a487cc17d8ec36323dda696d2f08d}
+      \strng{authorbibnamehash}{023a487cc17d8ec36323dda696d2f08d}
+      \strng{authornamehash}{023a487cc17d8ec36323dda696d2f08d}
+      \strng{authorfullhash}{1bb5abead974b523508d12a2d920285a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sustainable energy conversion and management processes increasingly require an integrated approach, especially in the context of addressing the climate crisis. This editorial puts forth related research frontiers based on 28 research articles of the special issue that is dedicated to the 13th Conference on Sustainable Development of Energy, Water and Environment Systems and regional series based on the 1st Latin American and 3rd South East European Conferences. Seven research frontiers are reviewed, the first three of which are (i) sustainable technologies for local energy systems, (ii) energy storage and advances in flexibility and (iii) solar energy penetration across multiple sectors. These research frontiers contain contributions based on renewable energy for wastewater treatment in islands, energy savings across urban built infrastructure, advanced district heating and cooling networks, power-to-gas and hydrogen production technologies, demand response in industrial systems, hybrid thermal energy storage, hybrid solar energy power plants, novel photovoltaic thermal technologies, and improved solar energy dispatchability. The research frontiers continue with (iv) wind, water based energy and the energy-water nexus, (v) effective valorization and upgrading of resources, (vi) combustion processes and better utilization of heat and (vii) carbon capture, storage and utilization. Significant contributions include innovative wind and hydrokinetic turbines, osmotic power technologies, synergetic solutions for water desalination, efficient catalytic pyrolysis, upgrading to reduce particle pollution, co-processing for alternative fuels, combustion characterization, electricity generation from waste heat sources, advances in heat exchangers and heat transfer, oxy-fuel combustion, post-combustion capture, and fly ash recycling for energy storage material. The research frontiers in this editorial provide ample opportunities to support societal transformations in the next decades to sustain planetary life-support systems.}
+      \field{issn}{0196-8904}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{month}{11}
+      \field{title}{Research frontiers in sustainable development of energy, water and environment systems in a time of climate crisis}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{199}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{111938}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.enconman.2019.111938
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\8QZ7RFT5\\S019689041930929X.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S019689041930929X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S019689041930929X
+      \endverb
+      \keyw{Environment,Climate mitigation,Energy,Sustainable development,System integration,Water}
+    \endentry
+    \entry{chen_waste-derived_2023}{article}{}
+      \name{author}{10}{}{%
+        {{hash=fe152674ff8f26580c4f9ce777c4c12a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhijie},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=851004d4c31bb332fe34fa764ffd144e}{%
+           family={Yun},
+           familyi={Y\bibinitperiod},
+           given={Sining},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9ce8cdd7491ecf0bfa98215f8651bcd1}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Lan},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0eb08049c69f6c6bd9af2bca0f0b79f8}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiaqi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3e279d52f13a2a5db4b98c47131788d4}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Xingdong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c1d89b1112687aab0def500c9ed1fd46}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=32b922ddfcc61eed31e7e99e697143b9}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yiwen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=dce97af13e1213a91f33b45c47c55367}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Renji},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e1254a2c1dd71550cb9495e6287cd7e2}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod}}}%
+        {{hash=bf7aa68c459a941369e6d1ca28d301fe}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Bing-Jie},
+           giveni={B\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b2f96275542b2f4d152c71dd4bfbebf7}
+      \strng{fullhash}{8f7ad908872e5a4b122408faaef058f5}
+      \strng{bibnamehash}{b2f96275542b2f4d152c71dd4bfbebf7}
+      \strng{authorbibnamehash}{b2f96275542b2f4d152c71dd4bfbebf7}
+      \strng{authornamehash}{b2f96275542b2f4d152c71dd4bfbebf7}
+      \strng{authorfullhash}{8f7ad908872e5a4b122408faaef058f5}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The sustainable production of green hydrogen via water electrolysis necessitates cost-effective electrocatalysts. By following the circular economy principle, the utilization of waste-derived catalysts sig‑nificantly promotes the sustainable development of green hydrogen energy. Currently, diverse waste-derived catalysts have exhibited excellent catalytic performance toward hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and overall water electrolysis (OWE). Herein, we system‑atically examine recent achievements in waste-derived electrocatalysts for water electrolysis. The general principles of water electrolysis and design principles of efficient electrocatalysts are discussed, followed by the illustra‑tion of current strategies for transforming wastes into electrocatalysts. Then, applications of waste-derived catalysts (i.e., carbon-based catalysts, transi‑tional metal-based catalysts, and carbon-based heterostructure catalysts) in HER, OER, and OWE are reviewed successively. An emphasis is put on cor‑relating the catalysts’ structure–performance relationship. Also, challenges and research directions in this booming field are finally highlighted. This review would provide useful insights into the design, synthesis, and applications of waste-derived electrocatalysts, and thus accelerate the development of the circular economy-driven green hydrogen energy scheme.}
+      \field{issn}{2311-6706, 2150-5551}
+      \field{journaltitle}{Nano-Micro Letters}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shorttitle}{Waste-{Derived} {Catalysts} for {Water} {Electrolysis}}
+      \field{title}{Waste-{Derived} {Catalysts} for {Water} {Electrolysis}: {Circular} {Economy}-{Driven} {Sustainable} {Green} {Hydrogen} {Energy}}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s40820-022-00974-7
+      \endverb
+      \verb{file}
+      \verb Chen et al. - 2023 - Waste-Derived Catalysts for Water Electrolysis Ci.pdf:C\:\\Users\\rotht\\Zotero\\storage\\HUUFM7TD\\Chen et al. - 2023 - Waste-Derived Catalysts for Water Electrolysis Ci.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s40820-022-00974-7
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s40820-022-00974-7
+      \endverb
+    \endentry
+    \entry{tran_open_2023}{article}{}
+      \name{author}{17}{}{%
+        {{hash=3c70e72b186d24d9f013e4462e73d982}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0ef1ea108cdba79a9eb6a102475e988c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Janice},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5cee91c537e15513e26828e1b733ab2f}{%
+           family={Shuaibi},
+           familyi={S\bibinitperiod},
+           given={Muhammed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=14c0c602ff61677f57518fdc5e2823ff}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7248a724d5b9c938f0548c4190670225}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Siddharth},
+           giveni={S\bibinitperiod}}}%
+        {{hash=95fdc805087b8b7c1bb60f09d4ee2641}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=68bf9d97ce0c92b647af33abcc657077}{%
+           family={Heras-Domingo},
+           familyi={H\bibinithyphendelim D\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=55a4674fcfa76a0d804992aef6e09e2c}{%
+           family={Kolluru},
+           familyi={K\bibinitperiod},
+           given={Adeesh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4aef2bcefd166c0d84e390b07b46f7a4}{%
+           family={Rizvi},
+           familyi={R\bibinitperiod},
+           given={Ammar},
+           giveni={A\bibinitperiod}}}%
+        {{hash=433ee2bb98f37f79e88f0447c971e82a}{%
+           family={Shoghi},
+           familyi={S\bibinitperiod},
+           given={Nima},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6dd83e676e354dde936d5b5c455227ec}{%
+           family={Sriram},
+           familyi={S\bibinitperiod},
+           given={Anuroop},
+           giveni={A\bibinitperiod}}}%
+        {{hash=732c2e50a20879adaef0e04b717c90e1}{%
+           family={Therrien},
+           familyi={T\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d45f4c90ee7d0e4e16c077391c66c49f}{%
+           family={Abed},
+           familyi={A\bibinitperiod},
+           given={Jehad},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9066f78415ca71e4526c6b64a40eb8e1}{%
+           family={Voznyy},
+           familyi={V\bibinitperiod},
+           given={Oleksandr},
+           giveni={O\bibinitperiod}}}%
+        {{hash=7a05be21c1edf0456217c5585cceb76b}{%
+           family={Sargent},
+           familyi={S\bibinitperiod},
+           given={Edward\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7be61a79c34d74e0480b0e72de8397a0}{%
+           family={Ulissi},
+           familyi={U\bibinitperiod},
+           given={Zachary},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=0eae2d56a9cbb037c64028d6573877a7}{%
+           family={Zitnick},
+           familyi={Z\bibinitperiod},
+           given={C.\bibnamedelimi Lawrence},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{3197e51b69378750aeace817e30b110d}
+      \strng{fullhash}{f1876a221f73a48d6c4c8a75547aa564}
+      \strng{bibnamehash}{3197e51b69378750aeace817e30b110d}
+      \strng{authorbibnamehash}{3197e51b69378750aeace817e30b110d}
+      \strng{authornamehash}{3197e51b69378750aeace817e30b110d}
+      \strng{authorfullhash}{f1876a221f73a48d6c4c8a75547aa564}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The development of machine learning models for electrocatalysts requires a broad set of training data to enable their use across a wide variety of materials. One class of materials that currently lacks sufficient training data is oxides, which are critical for the development of OER catalysts. To address this, we developed the OC22 dataset, consisting of 62,331 DFT relaxations ({\textasciitilde}9,854,504 single point calculations) across a range of oxide materials, coverages, and adsorbates. We define generalized total energy tasks that enable property prediction beyond adsorption energies; we test baseline performance of several graph neural networks; and we provide pre-defined dataset splits to establish clear benchmarks for future efforts. In the most general task, GemNet-OC sees a {\textasciitilde}36\% improvement in energy predictions when combining the chemically dissimilar OC20 and OC22 datasets via fine-tuning. Similarly, we achieved a {\textasciitilde}19\% improvement in total energy predictions on OC20 and a {\textasciitilde}9\% improvement in force predictions in OC22 when using joint training. We demonstrate the practical utility of a top performing model by capturing literature adsorption energies and important OER scaling relationships. We expect OC22 to provide an important benchmark for models seeking to incorporate intricate long-range electrostatic and magnetic interactions in oxide surfaces. Dataset and baseline models are open sourced, and a public leaderboard is available to encourage continued community developments on the total energy tasks and data.}
+      \field{issn}{2155-5435, 2155-5435}
+      \field{journaltitle}{ACS Catalysis}
+      \field{month}{3}
+      \field{note}{arXiv:2206.08917 [cond-mat, physics:physics]}
+      \field{number}{5}
+      \field{title}{The {Open} {Catalyst} 2022 ({OC22}) {Dataset} and {Challenges} for {Oxide} {Electrocatalysts}}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{3066\bibrangedash 3084}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1021/acscatal.2c05426
+      \endverb
+      \verb{file}
+      \verb arXiv.org Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\XQX97FLC\\2206.html:text/html;Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\LWZUN8UI\\Tran et al. - 2023 - The Open Catalyst 2022 (OC22) Dataset and Challeng.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2206.08917
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2206.08917
+      \endverb
+      \keyw{Computer Science - Machine Learning,Condensed Matter - Materials Science,Physics - Computational Physics}
+    \endentry
+    \entry{verdon_quantum_2019}{misc}{}
+      \name{author}{6}{}{%
+        {{hash=8943c3f5d2e184d9ca754c0e84ec9196}{%
+           family={Verdon},
+           familyi={V\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9f4bf56d7d294f41fde0b6f592f2dc04}{%
+           family={McCourt},
+           familyi={M\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f9edf51606c840d83b1a609f48184d2a}{%
+           family={Luzhnica},
+           familyi={L\bibinitperiod},
+           given={Enxhell},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8d33357fb78aa4cab2474f8757da1850}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Vikash},
+           giveni={V\bibinitperiod}}}%
+        {{hash=188e0a3433fcb8ba6f7bea5a6b6b82f1}{%
+           family={Leichenauer},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=68cf2b43d6be63b1ffea346ffe45c1c2}{%
+           family={Hidary},
+           familyi={H\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{d384c2df485f36feacf19c5b580344ee}
+      \strng{fullhash}{67e472b7be2a0292d04acc693bbbae77}
+      \strng{bibnamehash}{67e472b7be2a0292d04acc693bbbae77}
+      \strng{authorbibnamehash}{67e472b7be2a0292d04acc693bbbae77}
+      \strng{authornamehash}{d384c2df485f36feacf19c5b580344ee}
+      \strng{authorfullhash}{67e472b7be2a0292d04acc693bbbae77}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We introduce Quantum Graph Neural Networks (QGNN), a new class of quantum neural network ansatze which are tailored to represent quantum processes which have a graph structure, and are particularly suitable to be executed on distributed quantum systems over a quantum network. Along with this general class of ansatze, we introduce further specialized architectures, namely, Quantum Graph Recurrent Neural Networks (QGRNN) and Quantum Graph Convolutional Neural Networks (QGCNN). We provide four example applications of QGNNs: learning Hamiltonian dynamics of quantum systems, learning how to create multipartite entanglement in a quantum network, unsupervised learning for spectral clustering, and supervised learning for graph isomorphism classification.}
+      \field{month}{9}
+      \field{note}{arXiv:1909.12264 [quant-ph]}
+      \field{title}{Quantum {Graph} {Neural} {Networks}}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb arXiv.org Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\6EKDMLQ2\\1909.html:text/html;Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\4N6XH2KC\\Verdon et al. - 2019 - Quantum Graph Neural Networks.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1909.12264
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1909.12264
+      \endverb
+      \keyw{Computer Science - Machine Learning,Quantum Physics}
+    \endentry
+    \entry{beer_quantum_2021}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=91f37e1d8e83786ff5d1e5df22e545fa}{%
+           family={Beer},
+           familyi={B\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=29aa6b7c54c2995bce4d6fa0f565a9b1}{%
+           family={Khosla},
+           familyi={K\bibinitperiod},
+           given={Megha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=10bc83c05f4278d791a3fd643561a445}{%
+           family={Köhler},
+           familyi={K\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bd3d3f2e126dca66556cac81be469a9d}{%
+           family={Osborne},
+           familyi={O\bibinitperiod},
+           given={Tobias\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{b1b425855e3c6738a1b0e0c8f8ab593e}
+      \strng{fullhash}{2d66d036838dd2f5c3a3db6b87c65480}
+      \strng{bibnamehash}{2d66d036838dd2f5c3a3db6b87c65480}
+      \strng{authorbibnamehash}{2d66d036838dd2f5c3a3db6b87c65480}
+      \strng{authornamehash}{b1b425855e3c6738a1b0e0c8f8ab593e}
+      \strng{authorfullhash}{2d66d036838dd2f5c3a3db6b87c65480}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Graph structures are ubiquitous throughout the natural sciences. Here we consider graph-structured quantum data and describe how to carry out its quantum machine learning via quantum neural networks. In particular, we consider training data in the form of pairs of input and output quantum states associated with the vertices of a graph, together with edges encoding correlations between the vertices. We explain how to systematically exploit this additional graph structure to improve quantum learning algorithms. These algorithms are numerically simulated and exhibit excellent learning behavior. Scalable quantum implementations of the learning procedures are likely feasible on the next generation of quantum computing devices.}
+      \field{month}{3}
+      \field{note}{arXiv:2103.10837 [quant-ph]}
+      \field{title}{Quantum machine learning of graph-structured data}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb arXiv.org Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\TAFKFSGX\\2103.html:text/html;Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\ASU8LYV5\\Beer et al. - 2021 - Quantum machine learning of graph-structured data.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2103.10837
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2103.10837
+      \endverb
+      \keyw{Quantum Physics}
+    \endentry
+    \entry{ai_decompositional_2023}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=613af8b7669366de4541daaa1a446978}{%
+           family={Ai},
+           familyi={A\bibinitperiod},
+           given={Xing},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f6862918de72ae33b5ff43ff16164254}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhihong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=0d351e4bfb0f58440041ae571196ca36}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Luzhe},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9a7a7c8d0b927c0b0f6c62cef2f118d5}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Junchi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3fcfa549c90d93643a12e72c1f264a33}{%
+           family={Hancock},
+           familyi={H\bibinitperiod},
+           given={Edwin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{48ac98a4534bb87b33561df6651d0290}
+      \strng{fullhash}{cebd4bffa95122dbdc26ebe2a7a6d92c}
+      \strng{bibnamehash}{cebd4bffa95122dbdc26ebe2a7a6d92c}
+      \strng{authorbibnamehash}{cebd4bffa95122dbdc26ebe2a7a6d92c}
+      \strng{authornamehash}{48ac98a4534bb87b33561df6651d0290}
+      \strng{authorfullhash}{cebd4bffa95122dbdc26ebe2a7a6d92c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Quantum machine learning is a fast-emerging field that aims to tackle machine learning using quantum algorithms and quantum computing. Due to the lack of physical qubits and an effective means to map real-world data from Euclidean space to Hilbert space, most of these methods focus on quantum analogies or process simulations rather than devising concrete architectures based on qubits. In this paper, we propose a novel hybrid quantum-classical algorithm for graph-structured data, which we refer to as the Ego-graph based Quantum Graph Neural Network (egoQGNN). egoQGNN implements the GNN theoretical framework using the tensor product and unity matrix representation, which greatly reduces the number of model parameters required. When controlled by a classical computer, egoQGNN can accommodate arbitrarily sized graphs by processing ego-graphs from the input graph using a modestly-sized quantum device. The architecture is based on a novel mapping from real-world data to Hilbert space. This mapping maintains the distance relations present in the data and reduces information loss. Experimental results show that the proposed method outperforms competitive state-of-the-art models with only 1.68{\textbackslash}\% parameters compared to those models.}
+      \field{month}{3}
+      \field{note}{arXiv:2201.05158 [quant-ph]}
+      \field{title}{Decompositional {Quantum} {Graph} {Neural} {Network}}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb arXiv.org Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\V5HX87UG\\2201.html:text/html;Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\DGA994XR\\Ai et al. - 2023 - Decompositional Quantum Graph Neural Network.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2201.05158
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2201.05158
+      \endverb
+      \keyw{Computer Science - Machine Learning,Quantum Physics}
+    \endentry
+    \entry{peffers_design_2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3127efe8cdd4557b7228a8724f568529}{%
+           family={Peffers},
+           familyi={P\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8b17b21a3e4c61d1302f46cba38c6e50}{%
+           family={Tuunanen},
+           familyi={T\bibinitperiod},
+           given={Tuure},
+           giveni={T\bibinitperiod}}}%
+        {{hash=33ad207ea3031c6d744a31f5bc43c547}{%
+           family={Rothenberger},
+           familyi={R\bibinitperiod},
+           given={Marcus\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=edf3e165ce4429b30d49e353a7d1417a}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Samir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ccaed1d47a4875e5f027cdf2d20bbca}
+      \strng{fullhash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{bibnamehash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{authorbibnamehash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{authornamehash}{4ccaed1d47a4875e5f027cdf2d20bbca}
+      \strng{authorfullhash}{0d82c455b50c2b184d97697dac2e8660}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper motivates, presents, demonstrates in use, and evaluates a methodology for conducting design science (DS) research in information systems (IS). DS is of importance in a discipline oriented to the creation of successful artifacts. Several researchers have pioneered DS research in IS, yet over the past 15 years, little DS research has been done within the discipline. The lack of a methodology to serve as a commonly accepted framework for DS research and of a template for its presentation may have contributed to its slow adoption. The design science research methodology (DSRM) presented here incorporates principles, practices, and procedures required to carry out such research and meets three objectives: it is consistent with prior literature, it provides a nominal process model for doing DS research, and it provides a mental model for presenting and evaluating DS research in IS. The DS process includes six steps: problem identification and motivation, definition of the objectives for a solution, design and development, demonstration, evaluation, and communication. We demonstrate and evaluate the methodology by presenting four case studies in terms of the DSRM, including cases that present the design of a database to support health assessment methods, a software reuse measure, an Internet video telephony application, and an IS planning method. The designed methodology effectively satisfies the three objectives and has the potential to help aid the acceptance of DS research in the IS discipline.}
+      \field{issn}{0742-1222}
+      \field{journaltitle}{Journal of Management Information Systems}
+      \field{month}{12}
+      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.2753/MIS0742-1222240302}
+      \field{number}{3}
+      \field{title}{A {Design} {Science} {Research} {Methodology} for {Information} {Systems} {Research}}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{24}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{45\bibrangedash 77}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.2753/MIS0742-1222240302
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2753/MIS0742-1222240302
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2753/MIS0742-1222240302
+      \endverb
+      \keyw{case study,design science,design science research,design theory,mental model,methodology,process model}
+    \endentry
+    \entry{fettke_state---art_2006}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f88eb676c206753b0989fa3776b5a10c}{%
+           family={Fettke},
+           familyi={F\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \strng{namehash}{f88eb676c206753b0989fa3776b5a10c}
+      \strng{fullhash}{f88eb676c206753b0989fa3776b5a10c}
+      \strng{bibnamehash}{f88eb676c206753b0989fa3776b5a10c}
+      \strng{authorbibnamehash}{f88eb676c206753b0989fa3776b5a10c}
+      \strng{authornamehash}{f88eb676c206753b0989fa3776b5a10c}
+      \strng{authorfullhash}{f88eb676c206753b0989fa3776b5a10c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0937-6429, 1861-8936}
+      \field{journaltitle}{WIRTSCHAFTSINFORMATIK}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shorttitle}{State-of-the-{Art} des {State}-of-the-{Art}}
+      \field{title}{State-of-the-{Art} des {State}-of-the-{Art}: {Eine} {Untersuchung} der {Forschungsmethode} „{Review}” innerhalb der {Wirtschaftsinformatik}}
+      \field{urlday}{15}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{48}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{257}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s11576-006-0057-3
+      \endverb
+      \verb{file}
+      \verb Fettke - 2006 - State-of-the-Art des State-of-the-Art Eine Unters.pdf:C\:\\Users\\rotht\\Zotero\\storage\\KHABRZKB\\Fettke - 2006 - State-of-the-Art des State-of-the-Art Eine Unters.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s11576-006-0057-3
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s11576-006-0057-3
+      \endverb
+    \endentry
+    \entry{webster_analyzing_2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6ed791f1b25c2edc28d090a99d5856ba}{%
+           family={Webster},
+           familyi={W\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8da518c264e426f51264b39faf1ba701}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bebf48c11fae9b06937f32e891ef5884}
+      \strng{fullhash}{bebf48c11fae9b06937f32e891ef5884}
+      \strng{bibnamehash}{bebf48c11fae9b06937f32e891ef5884}
+      \strng{authorbibnamehash}{bebf48c11fae9b06937f32e891ef5884}
+      \strng{authornamehash}{bebf48c11fae9b06937f32e891ef5884}
+      \strng{authorfullhash}{bebf48c11fae9b06937f32e891ef5884}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIS Quarterly}
+      \field{number}{2}
+      \field{title}{Analyzing the {Past} to {Prepare} for the {Future}: {Writing} a {Literature} {Review}}
+      \field{volume}{26}
+      \field{year}{2002}
+      \field{pages}{xiii\bibrangedash xxiii}
+      \range{pages}{11}
+      \verb{file}
+      \verb Webster und Watson - 2002 - Analyzing the Past to Prepare for the Future Writ.pdf:C\:\\Users\\rotht\\Zotero\\storage\\BVMK9MHH\\Webster und Watson - 2002 - Analyzing the Past to Prepare for the Future Writ.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/4132319
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/4132319
+      \endverb
+    \endentry
+    \entry{vom_brocke_reconstructing_nodate}{article}{}
+      \name{author}{4}{}{%
+        {{hash=12c8a93a870d1bc7a6de117db0e7f71d}{%
+           family={Brocke},
+           familyi={B\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           prefix={vom},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=776f024626a2c77945a31f062a56e690}{%
+           family={Simons},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b37b0193628c257200a341418ea8d246}{%
+           family={Niehaves},
+           familyi={N\bibinitperiod},
+           given={Bjoern},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5ef9fd2b2233edd85bea4e534fa9aa6c}{%
+           family={Reimer},
+           familyi={R\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6ab415f11ba45a545a9dfd99c44dc8e9}
+      \strng{fullhash}{08852e31a5a64e462e9c6010276fa638}
+      \strng{bibnamehash}{08852e31a5a64e462e9c6010276fa638}
+      \strng{authorbibnamehash}{08852e31a5a64e462e9c6010276fa638}
+      \strng{authornamehash}{6ab415f11ba45a545a9dfd99c44dc8e9}
+      \strng{authorfullhash}{08852e31a5a64e462e9c6010276fa638}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Science is a cumulative endeavour as new knowledge is often created in the process of interpreting and combining existing knowledge. This is why literature reviews have long played a decisive role in scholarship. The quality of literature reviews is particularly determined by the literature search process. As Sir Isaac Newton eminently put it: “If I can see further, it is because I am standing on the shoulders of giants.” Drawing on this metaphor, the goal of writing a literature review is to reconstruct the giant of accumulated knowledge in a specific domain. And in doing so, a literature search represents the fundamental first step that makes up the giant’s skeleton and largely determines its reconstruction in the subsequent literature analysis. In this paper, we argue that the process of searching the literature must be comprehensibly described. Only then can readers assess the exhaustiveness of the review and other scholars in the field can more confidently (re)use the results in their own research. We set out to explore the methodological rigour of literature review articles published in ten major information systems (IS) journals and show that many of these reviews do not thoroughly document the process of literature search. The results drawn from our analysis lead us to call for more rigour in documenting the literature search process and to present guidelines for crafting a literature review and search in the IS domain.}
+      \field{title}{{RECONSTRUCTING} {THE} {GIANT}: {ON} {THE} {IMPORTANCE} {OF} {RIGOUR} {IN} {DOCUMENTING} {THE} {LITERATURE} {SEARCH} {PROCESS}}
+      \field{year}{2009}
+      \verb{file}
+      \verb Simons et al. - RECONSTRUCTING THE GIANT ON THE IMPORTANCE OF RIG.pdf:C\:\\Users\\rotht\\Zotero\\storage\\D8UZIMAP\\Simons et al. - RECONSTRUCTING THE GIANT ON THE IMPORTANCE OF RIG.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{wu_comprehensive_2021}{article}{}
+      \name{author}{6}{}{%
+        {{hash=c97b91ddf59fcb75f2d1b52080711566}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Zonghan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=019bcbde9904047f7c02c1ae64e1d46e}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Shirui},
+           giveni={S\bibinitperiod}}}%
+        {{hash=60aaf7ecf6263904f7e30d9a299a044d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Fengwen},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e7b6aa3c68f9430695b34429c0871856}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Guodong},
+           giveni={G\bibinitperiod}}}%
+        {{hash=59f3e845390faff6c808a1556b2ac0ef}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chengqi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ed7b2de2f08bfa6638d5d174d55d839b}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Philip\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0d8fc377d7726031a0daf3b3b9ab64b3}
+      \strng{fullhash}{0f1e0d108c1e93aa577ae493dc7dd45b}
+      \strng{bibnamehash}{0f1e0d108c1e93aa577ae493dc7dd45b}
+      \strng{authorbibnamehash}{0f1e0d108c1e93aa577ae493dc7dd45b}
+      \strng{authornamehash}{0d8fc377d7726031a0daf3b3b9ab64b3}
+      \strng{authorfullhash}{0f1e0d108c1e93aa577ae493dc7dd45b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deep learning has revolutionized many machine learning tasks in recent years, ranging from image classiﬁcation and video processing to speech recognition and natural language understanding. The data in these tasks are typically represented in the Euclidean space. However, there is an increasing number of applications where data are generated from non-Euclidean domains and are represented as graphs with complex relationships and interdependency between objects. The complexity of graph data has imposed signiﬁcant challenges on existing machine learning algorithms. Recently, many studies on extending deep learning approaches for graph data have emerged. In this survey, we provide a comprehensive overview of graph neural networks (GNNs) in data mining and machine learning ﬁelds. We propose a new taxonomy to divide the state-of-the-art graph neural networks into four categories, namely recurrent graph neural networks, convolutional graph neural networks, graph autoencoders, and spatial-temporal graph neural networks. We further discuss the applications of graph neural networks across various domains and summarize the open source codes, benchmark data sets, and model evaluation of graph neural networks. Finally, we propose potential research directions in this rapidly growing ﬁeld.}
+      \field{issn}{2162-237X, 2162-2388}
+      \field{journaltitle}{IEEE Transactions on Neural Networks and Learning Systems}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A {Comprehensive} {Survey} on {Graph} {Neural} {Networks}}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{32}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{4\bibrangedash 24}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1109/TNNLS.2020.2978386
+      \endverb
+      \verb{file}
+      \verb Wu et al. - 2021 - A Comprehensive Survey on Graph Neural Networks.pdf:C\:\\Users\\rotht\\Zotero\\storage\\XBI7V6VW\\Wu et al. - 2021 - A Comprehensive Survey on Graph Neural Networks.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9046288/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9046288/
+      \endverb
+    \endentry
+    \entry{zhou_graph_2020}{article}{}
+      \name{author}{9}{}{%
+        {{hash=873b7b14d7a3c7290a8ad393066ee9a3}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=85909d8a0dae0f58235434d6a4c3a425}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Ganqu},
+           giveni={G\bibinitperiod}}}%
+        {{hash=dbc192d3823d1022eb9ca28a4f81d27a}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Shengding},
+           giveni={S\bibinitperiod}}}%
+        {{hash=27c7fad66da172aaa64e08e3539ff172}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhengyan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=29ccf7aa9391a3e9e13ba3b57f4c48eb}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5b9a54b9d83697231299711961622ab8}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhiyuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=b089f6bd0b31a94e61b42f89d966b1e1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lifeng},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d35819f1b7580b5294fc7d3dc3d24550}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Changcheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=faa6f5041a22004ca0dd547c03476790}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Maosong},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{52ac8b06238656e0c352b6e46f10dece}
+      \strng{fullhash}{26b43ae59077cc1dba8f7bd57dea2b48}
+      \strng{bibnamehash}{52ac8b06238656e0c352b6e46f10dece}
+      \strng{authorbibnamehash}{52ac8b06238656e0c352b6e46f10dece}
+      \strng{authornamehash}{52ac8b06238656e0c352b6e46f10dece}
+      \strng{authorfullhash}{26b43ae59077cc1dba8f7bd57dea2b48}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Lots of learning tasks require dealing with graph data which contains rich relation information among elements. Modeling physics systems, learning molecular ﬁngerprints, predicting protein interface, and classifying diseases demand a model to learn from graph inputs. In other domains such as learning from non-structural data like texts and images, reasoning on extracted structures (like the dependency trees of sentences and the scene graphs of images) is an important research topic which also needs graph reasoning models. Graph neural networks (GNNs) are neural models that capture the dependence of graphs via message passing between the nodes of graphs. In recent years, variants of GNNs such as graph convolutional network (GCN), graph attention network (GAT), graph recurrent network (GRN) have demonstrated ground-breaking performances on many deep learning tasks. In this survey, we propose a general design pipeline for GNN models and discuss the variants of each component, systematically categorize the applications, and propose four open problems for future research.}
+      \field{issn}{26666510}
+      \field{journaltitle}{AI Open}
+      \field{shorttitle}{Graph neural networks}
+      \field{title}{Graph neural networks: {A} review of methods and applications}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{1}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{57\bibrangedash 81}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.aiopen.2021.01.001
+      \endverb
+      \verb{file}
+      \verb Zhou et al. - 2020 - Graph neural networks A review of methods and app.pdf:C\:\\Users\\rotht\\Zotero\\storage\\NBTB4JSU\\Zhou et al. - 2020 - Graph neural networks A review of methods and app.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2666651021000012
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2666651021000012
+      \endverb
+    \endentry
+    \entry{velickovic_everything_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b1208a71c9b067bcef8fb29c15a09b5d}{%
+           family={Veličković},
+           familyi={V\bibinitperiod},
+           given={Petar},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1208a71c9b067bcef8fb29c15a09b5d}
+      \strng{fullhash}{b1208a71c9b067bcef8fb29c15a09b5d}
+      \strng{bibnamehash}{b1208a71c9b067bcef8fb29c15a09b5d}
+      \strng{authorbibnamehash}{b1208a71c9b067bcef8fb29c15a09b5d}
+      \strng{authornamehash}{b1208a71c9b067bcef8fb29c15a09b5d}
+      \strng{authorfullhash}{b1208a71c9b067bcef8fb29c15a09b5d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In many ways, graphs are the main modality of data we receive from nature. This is due to the fact that most of the patterns we see, both in natural and artificial systems, are elegantly representable using the language of graph structures. Prominent examples include molecules (represented as graphs of atoms and bonds), social networks and transportation networks. This potential has already been seen by key scientific and industrial groups, with already-impacted application areas including traffic forecasting, drug discovery, social network analysis and recommender systems. Further, some of the most successful domains of application for machine learning in previous years -- images, text and speech processing -- can be seen as special cases of graph representation learning, and consequently there has been significant exchange of information between these areas. The main aim of this short survey is to enable the reader to assimilate the key concepts in the area, and position graph representation learning in a proper context with related fields.}
+      \field{annotation}{Comment: To appear in Current Opinion in Structural Biology. 14 pages, 1 figure}
+      \field{issn}{0959440X}
+      \field{journaltitle}{Current Opinion in Structural Biology}
+      \field{month}{4}
+      \field{note}{arXiv:2301.08210 [cs, stat]}
+      \field{shorttitle}{Everything is {Connected}}
+      \field{title}{Everything is {Connected}: {Graph} {Neural} {Networks}}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{79}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{102538}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.sbi.2023.102538
+      \endverb
+      \verb{file}
+      \verb arXiv.org Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\2VZUM672\\2301.html:text/html;Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\P54AM6ZA\\Veličković - 2023 - Everything is Connected Graph Neural Networks.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2301.08210
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2301.08210
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Computer Science - Social and Information Networks,Statistics - Machine Learning}
+    \endentry
+    \entry{liu_computational_2023}{article}{}
+      \name{author}{9}{}{%
+        {{hash=a3e3efa8c944db70447f9e8100704da6}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jin-Cheng},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=83389dc3effd160a53d2383b6c3e8aac}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Hai},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bfbf2f8dfdd8468adfedc06152eb7b62}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xiao-Kun},
+           giveni={X\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=1b791db1e48b2d20c398826af6a694fe}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Nan-Nan},
+           giveni={N\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=8e34231ba9b9318aa75b42a62d10fba4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8b9f09ea9a9a38ec6ad5300e72aee3c5}{%
+           family={Xing},
+           familyi={X\bibinitperiod},
+           given={Deng-Hui},
+           giveni={D\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=8c76418da8b6569a92bdccd491fdd2df}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Xiaohu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=661ccae061ac880725962955d74bbcf0}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Han-Shi},
+           giveni={H\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=bc20e54573d2db853852f86802ab83de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d7ce9f5d179fc4b377dd52cd8a1686d3}
+      \strng{fullhash}{c9be68b93bf72ddf64a72c7e19a96790}
+      \strng{bibnamehash}{d7ce9f5d179fc4b377dd52cd8a1686d3}
+      \strng{authorbibnamehash}{d7ce9f5d179fc4b377dd52cd8a1686d3}
+      \strng{authornamehash}{d7ce9f5d179fc4b377dd52cd8a1686d3}
+      \strng{authorfullhash}{c9be68b93bf72ddf64a72c7e19a96790}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2096-5745}
+      \field{journaltitle}{CCS Chemistry}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Computational {Prediction} of {Graphdiyne}-{Supported} {Three}-{Atom} {Single}-{Cluster} {Catalysts}}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{152\bibrangedash 163}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.31635/ccschem.022.202201796
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\22UJKYHA\\Liu et al. - 2023 - Computational Prediction of Graphdiyne-Supported T.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.chinesechemsoc.org/doi/10.31635/ccschem.022.202201796
+      \endverb
+      \verb{url}
+      \verb http://www.chinesechemsoc.org/doi/10.31635/ccschem.022.202201796
+      \endverb
+    \endentry
+    \entry{xu_how_2019}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=29a3a6bf823a641230b0258e0a8a0214}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Keyulu},
+           giveni={K\bibinitperiod}}}%
+        {{hash=164c7f22cde069c57bf9b80f76441fa9}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Weihua},
+           giveni={W\bibinitperiod}}}%
+        {{hash=900d107125ff0ca84698cb909e4f6c51}{%
+           family={Leskovec},
+           familyi={L\bibinitperiod},
+           given={Jure},
+           giveni={J\bibinitperiod}}}%
+        {{hash=83a44c18acfaa38fa9f6ba76cfdc0132}{%
+           family={Jegelka},
+           familyi={J\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{344f5b90b6e6e45d86fe86fd8fdca38c}
+      \strng{fullhash}{3fe1c2e12a449ac359ab2737dfe4ce17}
+      \strng{bibnamehash}{3fe1c2e12a449ac359ab2737dfe4ce17}
+      \strng{authorbibnamehash}{3fe1c2e12a449ac359ab2737dfe4ce17}
+      \strng{authornamehash}{344f5b90b6e6e45d86fe86fd8fdca38c}
+      \strng{authorfullhash}{3fe1c2e12a449ac359ab2737dfe4ce17}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Graph Neural Networks (GNNs) are an effective framework for representation learning of graphs. GNNs follow a neighborhood aggregation scheme, where the representation vector of a node is computed by recursively aggregating and transforming representation vectors of its neighboring nodes. Many GNN variants have been proposed and have achieved state-of-the-art results on both node and graph classification tasks. However, despite GNNs revolutionizing graph representation learning, there is limited understanding of their representational properties and limitations. Here, we present a theoretical framework for analyzing the expressive power of GNNs to capture different graph structures. Our results characterize the discriminative power of popular GNN variants, such as Graph Convolutional Networks and GraphSAGE, and show that they cannot learn to distinguish certain simple graph structures. We then develop a simple architecture that is provably the most expressive among the class of GNNs and is as powerful as the Weisfeiler-Lehman graph isomorphism test. We empirically validate our theoretical findings on a number of graph classification benchmarks, and demonstrate that our model achieves state-of-the-art performance.}
+      \field{month}{2}
+      \field{note}{arXiv:1810.00826 [cs, stat]}
+      \field{title}{How {Powerful} are {Graph} {Neural} {Networks}?}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb arXiv.org Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\S72IKL8Y\\1810.html:text/html;Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\I7REEX99\\Xu et al. - 2019 - How Powerful are Graph Neural Networks.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1810.00826
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1810.00826
+      \endverb
+      \keyw{Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning,Statistics - Machine Learning}
+    \endentry
+    \entry{gasteiger_directional_2022}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=aa748be8c33d0c83647f6ee1cfadee47}{%
+           family={Gasteiger},
+           familyi={G\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0bcf38df2b060d308348b789f5aec9f}{%
+           family={Groß},
+           familyi={G\bibinitperiod},
+           given={Janek},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1335d8f7eb7d45ba7b633488786afa17}{%
+           family={Günnemann},
+           familyi={G\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{fb3cb324a49f5aacae9a69137b20787c}
+      \strng{fullhash}{080d2bf5fd6f970c164a36b6dedb25f1}
+      \strng{bibnamehash}{080d2bf5fd6f970c164a36b6dedb25f1}
+      \strng{authorbibnamehash}{080d2bf5fd6f970c164a36b6dedb25f1}
+      \strng{authornamehash}{fb3cb324a49f5aacae9a69137b20787c}
+      \strng{authorfullhash}{080d2bf5fd6f970c164a36b6dedb25f1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Graph neural networks have recently achieved great successes in predicting quantum mechanical properties of molecules. These models represent a molecule as a graph using only the distance between atoms (nodes). They do not, however, consider the spatial direction from one atom to another, despite directional information playing a central role in empirical potentials for molecules, e.g. in angular potentials. To alleviate this limitation we propose directional message passing, in which we embed the messages passed between atoms instead of the atoms themselves. Each message is associated with a direction in coordinate space. These directional message embeddings are rotationally equivariant since the associated directions rotate with the molecule. We propose a message passing scheme analogous to belief propagation, which uses the directional information by transforming messages based on the angle between them. Additionally, we use spherical Bessel functions and spherical harmonics to construct theoretically well-founded, orthogonal representations that achieve better performance than the currently prevalent Gaussian radial basis representations while using fewer than 1/4 of the parameters. We leverage these innovations to construct the directional message passing neural network (DimeNet). DimeNet outperforms previous GNNs on average by 76\% on MD17 and by 31\% on QM9. Our implementation is available online.}
+      \field{annotation}{Comment: Published as a conference paper at ICLR 2020. Author name changed from Johannes Klicpera to Johannes Gasteiger}
+      \field{month}{4}
+      \field{note}{arXiv:2003.03123 [physics, stat]}
+      \field{title}{Directional {Message} {Passing} for {Molecular} {Graphs}}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb arXiv.org Snapshot:C\:\\Users\\rotht\\Zotero\\storage\\YFIDPIPH\\2003.html:text/html;Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\2YARLY4S\\Gasteiger et al. - 2022 - Directional Message Passing for Molecular Graphs.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2003.03123
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2003.03123
+      \endverb
+      \keyw{Computer Science - Machine Learning,Physics - Computational Physics,Statistics - Machine Learning}
+    \endentry
+    \entry{noauthor_torch_geometricdatasetsqm9_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d6c9b67a34c91509f0fb3dc266ac6278}{%
+           family={{PyTorch Geometric Documentation - Torch geometric datasets}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6c9b67a34c91509f0fb3dc266ac6278}
+      \strng{fullhash}{d6c9b67a34c91509f0fb3dc266ac6278}
+      \strng{bibnamehash}{d6c9b67a34c91509f0fb3dc266ac6278}
+      \strng{authorbibnamehash}{d6c9b67a34c91509f0fb3dc266ac6278}
+      \strng{authornamehash}{d6c9b67a34c91509f0fb3dc266ac6278}
+      \strng{authorfullhash}{d6c9b67a34c91509f0fb3dc266ac6278}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{QM9 Dataset Description}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.QM9.html
+      \endverb
+      \verb{url}
+      \verb https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.QM9.html
+      \endverb
+    \endentry
+    \entry{wirth2000crisp}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=93c4571a5818e3fd7fe299eb7352e55d}{%
+           family={Wirth},
+           familyi={W\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d5dfd4b665b86c69a99a0455c78004e8}{%
+           family={Hipp},
+           familyi={H\bibinitperiod},
+           given={Jochen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Manchester}%
+      }
+      \strng{namehash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{fullhash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{bibnamehash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{authorbibnamehash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{authornamehash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{authorfullhash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 4th international conference on the practical applications of knowledge discovery and data mining}
+      \field{title}{CRISP-DM: Towards a standard process model for data mining}
+      \field{volume}{1}
+      \field{year}{2000}
+      \field{pages}{29\bibrangedash 39}
+      \range{pages}{11}
+    \endentry
+    \entry{gilmer_neural_2017}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=4f550339f0337905aa634f39e1ba4833}{%
+           family={Gilmer},
+           familyi={G\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=aa3475bbb938eec3f9f0d7c8d44f1e86}{%
+           family={Schoenholz},
+           familyi={S\bibinitperiod},
+           given={Samuel\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e9632c2c29a574cd09a5a7503be60435}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Patrick\bibnamedelima F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=494b568c5dc85ba8f3f409635f9c5f25}{%
+           family={Vinyals},
+           familyi={V\bibinitperiod},
+           given={Oriol},
+           giveni={O\bibinitperiod}}}%
+        {{hash=b2367e57c17225a47853346440e87b35}{%
+           family={Dahl},
+           familyi={D\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{c654290e16b9e71825428d767650ff2a}
+      \strng{fullhash}{a97dbeb15b563be460fc056e7a076a4b}
+      \strng{bibnamehash}{a97dbeb15b563be460fc056e7a076a4b}
+      \strng{authorbibnamehash}{a97dbeb15b563be460fc056e7a076a4b}
+      \strng{authornamehash}{c654290e16b9e71825428d767650ff2a}
+      \strng{authorfullhash}{a97dbeb15b563be460fc056e7a076a4b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Supervised learning on molecules has incredible potential to be useful in chemistry, drug discovery, and materials science. Luckily, several promising and closely related neural network models invariant to molecular symmetries have already been described in the literature. These models learn a message passing algorithm and aggregation procedure to compute a function of their entire input graph. At this point, the next step is to find a particularly effective variant of this general approach and apply it to chemical prediction benchmarks until we either solve them or reach the limits of the approach. In this paper, we reformulate existing models into a single common framework we call Message Passing Neural Networks (MPNNs) and explore additional novel variations within this framework. Using MPNNs we demonstrate state of the art results on an important molecular property prediction benchmark; these results are strong enough that we believe future work should focus on datasets with larger molecules or more accurate ground truth labels.}
+      \field{booktitle}{Proceedings of the 34th {International} {Conference} on {Machine} {Learning}}
+      \field{month}{7}
+      \field{note}{ISSN: 2640-3498}
+      \field{title}{Neural {Message} {Passing} for {Quantum} {Chemistry}}
+      \field{urlday}{27}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1263\bibrangedash 1272}
+      \range{pages}{10}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\IYWIUZ3G\\Gilmer et al. - 2017 - Neural Message Passing for Quantum Chemistry.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v70/gilmer17a.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v70/gilmer17a.html
+      \endverb
+    \endentry
+    \entry{noauthor_deepchem_nodate}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{{DeepChem Documentation}}
+      \field{urlday}{27}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb DeepChem:C\:\\Users\\rotht\\Zotero\\storage\\JEUN2JEU\\about.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://deepchem.io/about/
+      \endverb
+      \verb{url}
+      \verb https://deepchem.io/about/
+      \endverb
+    \endentry
+    \entry{altae-tran_low_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=df86604f5f4b69a1a1d4b0c0aedfcab8}{%
+           family={Altae-Tran},
+           familyi={A\bibinithyphendelim T\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6846cc99295752b57e920fdc36e377f2}{%
+           family={Ramsundar},
+           familyi={R\bibinitperiod},
+           given={Bharath},
+           giveni={B\bibinitperiod}}}%
+        {{hash=628bfac8e3298952c1e261e42d694a96}{%
+           family={Pappu},
+           familyi={P\bibinitperiod},
+           given={Aneesh\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8b199ddaf6c3a6930287f84fc29a82dd}{%
+           family={Pande},
+           familyi={P\bibinitperiod},
+           given={Vijay},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{eb47bae98c90cbbcc029ed08446db7f2}
+      \strng{fullhash}{69a8dc2d3672a2b2c2e0756db7d466b2}
+      \strng{bibnamehash}{69a8dc2d3672a2b2c2e0756db7d466b2}
+      \strng{authorbibnamehash}{69a8dc2d3672a2b2c2e0756db7d466b2}
+      \strng{authornamehash}{eb47bae98c90cbbcc029ed08446db7f2}
+      \strng{authorfullhash}{69a8dc2d3672a2b2c2e0756db7d466b2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2374-7943, 2374-7951}
+      \field{journaltitle}{ACS Central Science}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Low {Data} {Drug} {Discovery} with {One}-{Shot} {Learning}}
+      \field{urlday}{27}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{283\bibrangedash 293}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1021/acscentsci.6b00367
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\rotht\\Zotero\\storage\\H6CZR37B\\Altae-Tran et al. - 2017 - Low Data Drug Discovery with One-Shot Learning.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/acscentsci.6b00367
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/acscentsci.6b00367
+      \endverb
+    \endentry
+    \entry{xiong_pushing_2019}{article}{}
+      \name{author}{11}{}{%
+        {{hash=60da4676a89df94aa643b0a3c4d6f19a}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Zhaoping},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ac772003161f97f2c10e8e54142921b6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Dingyan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=163b6ada3d03b7a9c8ff77f957ba0c28}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaohong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=a446f0f24593a03a3581c6e37ed786fc}{%
+           family={Feisheng},
+           familyi={F\bibinitperiod},
+           given={Zhong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=7d473480b49ce526ad87fe8b43b384fc}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Xiaozhe},
+           giveni={X\bibinitperiod}}}%
+        {{hash=d6e362d625f3665658b8272d32174c29}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xutong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1ed26f393600417d3f6bacc1b4d4662d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhaojun},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=09ac6a5ca902407f4fb6ed4b32afb843}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Xiaomin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=62af3551bb5ea0c91806ee56ef061ebb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Kaixian},
+           giveni={K\bibinitperiod}}}%
+        {{hash=199bb51203651a61c1509f581bb23169}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f1fd17dc2ffbe0a825307a783e6dcf3c}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Mingyue},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8c5c3555b28d059003942b98a512f9d}
+      \strng{fullhash}{ae6dbdc17bad7a39afe0e4031a2d3d7c}
+      \strng{bibnamehash}{a8c5c3555b28d059003942b98a512f9d}
+      \strng{authorbibnamehash}{a8c5c3555b28d059003942b98a512f9d}
+      \strng{authornamehash}{a8c5c3555b28d059003942b98a512f9d}
+      \strng{authorfullhash}{ae6dbdc17bad7a39afe0e4031a2d3d7c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Hunting for chemicals with favourable pharmacological, toxicological and pharmacokinetic properties remains a formidable challenge for drug discovery. Deep learning provides us with powerful tools to build predictive models that are appropriate for the rising amounts of data, but the gap between what these neural networks learn and what human beings can comprehend is growing. Moreover, this gap may induce distrust and restrict deep learning applications in practice. Here, we introduce a new graph neural network architecture called Attentive FP for molecular representation that uses a graph attention mechanism to learn from relevant drug discovery datasets. We demonstrate that Attentive FP achieves state-of-the-art predictive performances on a variety of datasets and that what it learns is interpretable. The feature visualization for Attentive FP suggests that it automatically learns non-local intramolecular interactions from specified tasks, which can help us gain chemical insights directly from data beyond human perception.}
+      \field{journaltitle}{Journal of Medicinal Chemistry}
+      \field{month}{8}
+      \field{title}{Pushing the boundaries of molecular representation for drug discovery with graph attention mechanism}
+      \field{volume}{63}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1021/acs.jmedchem.9b00959
+      \endverb
+    \endentry
+    \entry{jiang_could_2021}{article}{}
+      \name{author}{10}{}{%
+        {{hash=8c567f9969a6e8ffe876691f35713e9c}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Dejun},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a55f4cef534bdbdfaa6b776349daf9f4}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Zhenxing},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=93161a0f89f51840f9d251b7ca85144b}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={Chang-Yu},
+           giveni={C\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=7e1094977f86278d4d351ff3e4806d7c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Guangyong},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1fde391f239e38a9272cbcaa23ae5041}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=edcb27361de88ed2a8ec1c9dca30dd7a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c9c5e10a3437eda8b840b32b2d361aa9}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod}}}%
+        {{hash=39b933597074b6255f2458fc797fc1b9}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Dongsheng},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bb371597af3d6d97a656e6f879c0189d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=780fb4031ca03d94f51a303cc753f683}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Tingjun},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e34ecab3f3f8e6b55a63ffd0e7a6d91e}
+      \strng{fullhash}{8151311384bcd0b790913ff830cec21f}
+      \strng{bibnamehash}{e34ecab3f3f8e6b55a63ffd0e7a6d91e}
+      \strng{authorbibnamehash}{e34ecab3f3f8e6b55a63ffd0e7a6d91e}
+      \strng{authornamehash}{e34ecab3f3f8e6b55a63ffd0e7a6d91e}
+      \strng{authorfullhash}{8151311384bcd0b790913ff830cec21f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Graph neural networks (GNN) has been considered as an attractive modelling method for molecular property predic‑tion, and numerous studies have shown that GNN could yield more promising results than traditional descriptorbased methods. In this study, based on 11 public datasets covering various property endpoints, the predictive capacity and computational efficiency of the prediction models developed by eight machine learning (ML) algo‑rithms, including four descriptor-based models (SVM, XGBoost, RF and DNN) and four graph-based models (GCN, GAT, MPNN and Attentive FP), were extensively tested and compared. The results demonstrate that on average the descriptor-based models outperform the graph-based models in terms of prediction accuracy and computational efficiency. SVM generally achieves the best predictions for the regression tasks. Both RF and XGBoost can achieve reli‑able predictions for the classification tasks, and some of the graph-based models, such as Attentive FP and GCN, can yield outstanding performance for a fraction of larger or multi-task datasets. In terms of computational cost, XGBoost and RF are the two most efficient algorithms and only need a few seconds to train a model even for a large dataset. The model interpretations by the SHAP method can effectively explore the established domain knowledge for the descriptor-based models. Finally, we explored use of these models for virtual screening (VS) towards HIV and dem‑onstrated that different ML algorithms offer diverse VS profiles. All in all, we believe that the off-the-shelf descriptorbased models still can be directly employed to accurately predict various chemical endpoints with excellent comput‑ability and interpretability.}
+      \field{issn}{1758-2946}
+      \field{journaltitle}{Journal of Cheminformatics}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shorttitle}{Could graph neural networks learn better molecular representation for drug discovery?}
+      \field{title}{Could graph neural networks learn better molecular representation for drug discovery? {A} comparison study of descriptor-based and graph-based models}
+      \field{urlday}{27}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13321-020-00479-8
+      \endverb
+      \verb{file}
+      \verb Jiang et al. - 2021 - Could graph neural networks learn better molecular.pdf:C\:\\Users\\rotht\\Zotero\\storage\\Q7WD35CS\\Jiang et al. - 2021 - Could graph neural networks learn better molecular.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8
+      \endverb
+      \verb{url}
+      \verb https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00479-8
+      \endverb
+    \endentry
+    \entry{kipf2016semi}{article}{}
+      \name{author}{2}{}{%
+        {{hash=26d8bcbda6afaf96334bf47c8fb88a75}{%
+           family={Kipf},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima N},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=53d2880ad8047b61cdae2c6b2803e763}{%
+           family={Welling},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{fullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{bibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorbibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authornamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \strng{authorfullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1609.02907}
+      \field{title}{Semi-supervised classification with graph convolutional networks}
+      \field{year}{2016}
+    \endentry
+    \entry{zhang2019graph}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7be702ee44f06ce908bcd74788e89450}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Si},
+           giveni={S\bibinitperiod}}}%
+        {{hash=accfc7f5c581f746112f5fd641490dda}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Hanghang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=43cc471621a589e76ac98712da6779d4}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiejun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2b5ca44c8c6282907a259c6ab44dfd77}{%
+           family={Maciejewski},
+           familyi={M\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SpringerOpen}%
+      }
+      \strng{namehash}{d050f77b5e46c48f4ddee821687c691d}
+      \strng{fullhash}{509a663e520952bf39ecb8ca114d9f89}
+      \strng{bibnamehash}{509a663e520952bf39ecb8ca114d9f89}
+      \strng{authorbibnamehash}{509a663e520952bf39ecb8ca114d9f89}
+      \strng{authornamehash}{d050f77b5e46c48f4ddee821687c691d}
+      \strng{authorfullhash}{509a663e520952bf39ecb8ca114d9f89}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Social Networks}
+      \field{number}{1}
+      \field{title}{Graph convolutional networks: a comprehensive review}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 23}
+      \range{pages}{23}
+    \endentry
+    \entry{li2017diffusion}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a0244acdde510a6bbe1f70586de09d25}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yaguang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=97101a5c27b13abad23d655d9b094d22}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Rose},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b5ca6e426b0aff19346d2118d3844ef5}{%
+           family={Shahabi},
+           familyi={S\bibinitperiod},
+           given={Cyrus},
+           giveni={C\bibinitperiod}}}%
+        {{hash=92f7474e36f4f2b59a14e85c0e738e40}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{00199084b9f016fbbc3b21339e6a5e91}
+      \strng{fullhash}{8059733f86375e311bdb94a651216b51}
+      \strng{bibnamehash}{8059733f86375e311bdb94a651216b51}
+      \strng{authorbibnamehash}{8059733f86375e311bdb94a651216b51}
+      \strng{authornamehash}{00199084b9f016fbbc3b21339e6a5e91}
+      \strng{authorfullhash}{8059733f86375e311bdb94a651216b51}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1707.01926}
+      \field{title}{Diffusion convolutional recurrent neural network: Data-driven traffic forecasting}
+      \field{year}{2017}
+    \endentry
+    \entry{hajiramezanali2019variational}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2bf6ec51df910ba807603aa9792a6553}{%
+           family={Hajiramezanali},
+           familyi={H\bibinitperiod},
+           given={Ehsan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0cf59c523a2f32615695db1eabf49ff3}{%
+           family={Hasanzadeh},
+           familyi={H\bibinitperiod},
+           given={Arman},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9b85cd931be8422334b6fc75d7ecee0f}{%
+           family={Narayanan},
+           familyi={N\bibinitperiod},
+           given={Krishna},
+           giveni={K\bibinitperiod}}}%
+        {{hash=423d3eda031d2e95ec2670b300c5c27d}{%
+           family={Duffield},
+           familyi={D\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=878d1e852f366574c40df3a1b07b8905}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Mingyuan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ab21df82987a220b4afd033729fc960b}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Xiaoning},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{13bffe85f30138db91737dabf975fa96}
+      \strng{fullhash}{a6d641d5d09905d9a1de728416288419}
+      \strng{bibnamehash}{a6d641d5d09905d9a1de728416288419}
+      \strng{authorbibnamehash}{a6d641d5d09905d9a1de728416288419}
+      \strng{authornamehash}{13bffe85f30138db91737dabf975fa96}
+      \strng{authorfullhash}{a6d641d5d09905d9a1de728416288419}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{Variational graph recurrent neural networks}
+      \field{volume}{32}
+      \field{year}{2019}
+    \endentry
+    \entry{li2021adaptive}{article}{}
+      \name{author}{3}{}{%
+        {{hash=750adebf12ff1b4140470407f82e2b40}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xuelong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6f6897fb48d96c342214fde1d2bc9269}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hongyuan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0672466dc7c3a8cec050e5ac091fd0ac}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{60194772db8e2fd7f4a0201722879ab8}
+      \strng{fullhash}{fdf103087c64fa55ae46cd66cac2c875}
+      \strng{bibnamehash}{fdf103087c64fa55ae46cd66cac2c875}
+      \strng{authorbibnamehash}{fdf103087c64fa55ae46cd66cac2c875}
+      \strng{authornamehash}{60194772db8e2fd7f4a0201722879ab8}
+      \strng{authorfullhash}{fdf103087c64fa55ae46cd66cac2c875}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{12}
+      \field{title}{Adaptive graph auto-encoder for general data clustering}
+      \field{volume}{44}
+      \field{year}{2021}
+      \field{pages}{9725\bibrangedash 9732}
+      \range{pages}{8}
+    \endentry
+    \entry{zhang2021graph}{article}{}
+      \name{author}{4}{}{%
+        {{hash=06e583ab78112ec4b6d64d16c4651686}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiao-Meng},
+           giveni={X\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=7660480ca5e74db08e467c9ba7c003b1}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5d07f51a51d9c2c1363bab089c022727}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a401ad5d32458f97b34518c14dacca3e}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Ming-Jing},
+           giveni={M\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{21b4440e81b3891f25f504d63cbca84f}
+      \strng{fullhash}{0ba61feeccb6588bcd8ab54adcc7c14f}
+      \strng{bibnamehash}{0ba61feeccb6588bcd8ab54adcc7c14f}
+      \strng{authorbibnamehash}{0ba61feeccb6588bcd8ab54adcc7c14f}
+      \strng{authornamehash}{21b4440e81b3891f25f504d63cbca84f}
+      \strng{authorfullhash}{0ba61feeccb6588bcd8ab54adcc7c14f}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in genetics}
+      \field{title}{Graph neural networks and their current applications in bioinformatics}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{pages}{690049}
+      \range{pages}{1}
+    \endentry
+    \entry{menonunderstanding}{article}{}
+      \name{author}{1}{}{%
+        {{hash=35068c9268bbc071be35bbce91584a72}{%
+           family={Menon},
+           familyi={M\bibinitperiod},
+           given={Suraj},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{35068c9268bbc071be35bbce91584a72}
+      \strng{fullhash}{35068c9268bbc071be35bbce91584a72}
+      \strng{bibnamehash}{35068c9268bbc071be35bbce91584a72}
+      \strng{authorbibnamehash}{35068c9268bbc071be35bbce91584a72}
+      \strng{authornamehash}{35068c9268bbc071be35bbce91584a72}
+      \strng{authorfullhash}{35068c9268bbc071be35bbce91584a72}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding Molecular Data using Graph Convolutional Networks}
+    \endentry
+    \entry{Tychola_Kalampokas_Papakostas_2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7c304115cb677d88a4543b2db723132e}{%
+           family={Tychola},
+           familyi={T\bibinitperiod},
+           given={Kyriaki\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=91e528dbe5b53fd449283dd9d5e3e3e8}{%
+           family={Kalampokas},
+           familyi={K\bibinitperiod},
+           given={Theofanis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=35ae72b9d81fe642d8802997bc11225d}{%
+           family={Papakostas},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a87a46be17ade518d4673e7696f1b9ea}
+      \strng{fullhash}{d95a78222520741a375adecce0083736}
+      \strng{bibnamehash}{d95a78222520741a375adecce0083736}
+      \strng{authorbibnamehash}{d95a78222520741a375adecce0083736}
+      \strng{authornamehash}{a87a46be17ade518d4673e7696f1b9ea}
+      \strng{authorfullhash}{d95a78222520741a375adecce0083736}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2079-9292}
+      \field{journaltitle}{Electronics}
+      \field{month}{5}
+      \field{number}{11}
+      \field{title}{Quantum Machine Learning—An Overview}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{2379}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/electronics12112379
+      \endverb
+    \endentry
+    \entry{claudino2022basics}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a9a518d521c7af63e0dd4a41d5418a78}{%
+           family={Claudino},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a9a518d521c7af63e0dd4a41d5418a78}
+      \strng{fullhash}{a9a518d521c7af63e0dd4a41d5418a78}
+      \strng{bibnamehash}{a9a518d521c7af63e0dd4a41d5418a78}
+      \strng{authorbibnamehash}{a9a518d521c7af63e0dd4a41d5418a78}
+      \strng{authornamehash}{a9a518d521c7af63e0dd4a41d5418a78}
+      \strng{authorfullhash}{a9a518d521c7af63e0dd4a41d5418a78}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Quantum Chemistry}
+      \field{number}{23}
+      \field{title}{The basics of quantum computing for chemists}
+      \field{volume}{122}
+      \field{year}{2022}
+      \field{pages}{e26990}
+      \range{pages}{-1}
+    \endentry
+    \entry{zheng2021quantum}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f33aa999215dd768d60b53db4032bf82}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e3da0c4eb14fca37dccbbe3827aa8db6}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=da8079c0f38716471da3e1e578fe291b}{%
+           family={Lü},
+           familyi={L\bibinitperiod},
+           given={Yanxuan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ffcb4cad20374788d210d2621bea80d0}
+      \strng{fullhash}{b96d6c69649071f9dd5102a4297f2741}
+      \strng{bibnamehash}{b96d6c69649071f9dd5102a4297f2741}
+      \strng{authorbibnamehash}{b96d6c69649071f9dd5102a4297f2741}
+      \strng{authornamehash}{ffcb4cad20374788d210d2621bea80d0}
+      \strng{authorfullhash}{b96d6c69649071f9dd5102a4297f2741}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 40th Chinese Control Conference (CCC)}
+      \field{title}{Quantum graph convolutional neural networks}
+      \field{year}{2021}
+      \field{pages}{6335\bibrangedash 6340}
+      \range{pages}{6}
+    \endentry
+    \entry{ryu2023quantum}{article}{}
+      \name{author}{3}{}{%
+        {{hash=65762c9b25dd8f53a8eb156bc4c337ff}{%
+           family={Ryu},
+           familyi={R\bibinitperiod},
+           given={Ju-Young},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=eac9c9579c3199afff20bd67d7994b24}{%
+           family={Elala},
+           familyi={E\bibinitperiod},
+           given={Eyuel},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8a2756957e7b45040c9a3bccd5714f7c}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={June-Koo\bibnamedelima Kevin},
+           giveni={J\bibinithyphendelim K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{8e91e88cfaeae85a2299ce987f9dec74}
+      \strng{fullhash}{f0c02155000e18ceb4151a2196919134}
+      \strng{bibnamehash}{f0c02155000e18ceb4151a2196919134}
+      \strng{authorbibnamehash}{f0c02155000e18ceb4151a2196919134}
+      \strng{authornamehash}{8e91e88cfaeae85a2299ce987f9dec74}
+      \strng{authorfullhash}{f0c02155000e18ceb4151a2196919134}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials}
+      \field{number}{12}
+      \field{title}{Quantum Graph Neural Network Models for Materials Search}
+      \field{volume}{16}
+      \field{year}{2023}
+      \field{pages}{4300}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
