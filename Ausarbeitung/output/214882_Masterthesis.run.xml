@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>214882_Masterthesis.bcf</file>
+      <file>214882_MasterThesis.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>214882_Masterthesis.bbl</file>
+      <file>214882_MasterThesis.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -66,19 +66,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>214882_Masterthesis</infile>
+      <infile>214882_MasterThesis</infile>
     </cmdline>
     <input>
-      <file>214882_Masterthesis.bcf</file>
+      <file>214882_MasterThesis.bcf</file>
     </input>
     <output>
-      <file>214882_Masterthesis.bbl</file>
+      <file>214882_MasterThesis.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>214882_Masterthesis.bbl</file>
+      <file>214882_MasterThesis.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>214882_Masterthesis.bcf</file>
+      <file>214882_MasterThesis.bcf</file>
     </requires>
     <requires type="editable">
       <file>Literatur.bib</file>

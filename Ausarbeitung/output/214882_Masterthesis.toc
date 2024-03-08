@@ -23,18 +23,20 @@
 \contentsline {section}{\numberline {3.1}Introduction}{16}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Theoretical Background}{18}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Quantum Computing}{18}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Quantum Graph Neural Networks}{19}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Potential Energy Prediction}{19}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}Research Methodology}{19}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Findings}{20}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Findings}{21}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Foundation Paper}{21}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Requirement Analysis}{21}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Development of the QGNN}{21}{subsection.3.5.3}%
-\contentsline {section}{\numberline {3.6}Conclusion}{21}{section.3.6}%
-\contentsline {chapter}{\numberline {4}Global Conclusion}{22}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Summary}{22}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Critical Reflection}{23}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Outlook}{24}{section.4.3}%
-\contentsline {chapter}{\nonumberline References}{VI}{chapter*.20}%
+\contentsline {subsection}{\numberline {3.2.2}Potential Energy Prediction}{20}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Research Methodology}{20}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Findings}{21}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Foundation Papers}{22}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Requirement Analysis}{23}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Development of the QCNN}{25}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Challenges during the development}{27}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Conclusion}{27}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Summary}{27}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Critical Reflection}{27}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Outlook}{27}{subsection.3.5.3}%
+\contentsline {chapter}{\numberline {4}Global Conclusion}{28}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Summary}{28}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Critical Reflection}{29}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Outlook}{30}{section.4.3}%
+\contentsline {chapter}{\nonumberline References}{VI}{chapter*.21}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
