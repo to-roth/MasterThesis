@@ -1,9 +1,10 @@
 
-\chapter{Architectures of Graph Neural Networks}
+\chapter{Paper 1 - Architectures of Graph Neural Networks}
 
 \section*{Abstract}
 
-As deep learning algorithms increasingly adress graph-structured data, Graph Neural Networks (GNNs) play a more and more important role in various fields, including computational chemistry and the prediction of molecular properties. However, currently in the literature different architectures and approaches of GNNs exist. Therefore, this paper analyzes the current state-of-art by exploring architectures and approaches of GNNs in the literature. By creating an overview, it will show that convolutional GNNs are commonly used and particulary reliable when working with molecular properties. With the help of structured process CRISP-DM, later a convolutional GNN will be developed that predicts the potential energy surface of molecules with the QM9 dataset and a simpler water dataset. The evaluation shows high accuracy, therefore the GNN was succesfully developed. \\
+As deep learning algorithms increasingly adress graph-structured data, Graph Neural Networks (GNNs) play a more and more important role in various fields, including computational chemistry and the prediction of molecular properties. However, currently in the literature different architectures and approaches of GNNs exist. Therefore, this paper analyzes the current state-of-art by exploring architectures and approaches of GNNs in the literature. By creating an overview, it will show that convolutional GNNs are commonly used and particulary reliable when working with molecular properties. With the help of structured process CRISP-DM, later a convolutional GNN will be developed that predicts the potential energy surface of molecules with the QM9 dataset and a simpler water dataset. The evaluation shows a high level of accuracy compared to a classic neural network architecture, especially for more complex datasets. Therefore, the GNN was succesfully developed. \\
+
 
 \textit{\textbf{Keywords:} graph neural networks, architectures, literature review, potential energy surface prediction}
 
@@ -22,7 +23,9 @@ The goal of this paper is to develop an understanding of graph neural networks i
 
 \begin{itemize}
     \item literature review of different graph neural network architectures
-    \item prototypical implementation of a graph neural network for the potential energy prediction
+    \item prototypical implementation of a graph neural network for the potential energy 
+    prediction
+    \item baseline neural networks for the comparison to graph-based models with different datasets
 \end{itemize}  
 
 The structure of this paper is as followed: first, the scientific foundations and theoretical background are discussed. Then the research methodology is presented in detail. Based on this, the findings and their results are presented and then discussed. Finally, a conclusion and discussion of the results is provided, as well as an overview of possible research topics based on this work.  
@@ -130,10 +133,9 @@ The fifth phase describes the evaluation of the developed model, where the perfo
 \end{table}
 
 As shown in the Table, training the baseline model with similar hyperparameters to the GCN takes about 3 minutes less than training the GCN. However, the measurement of MSE and RMSE shows that the results of the GCN are much more accurate than the results of the baseline model, e.g. the RMSE of the GCN is about 6 times smaller than the RMSE of the baseline architecture. Comparing the overall accuracy using the $R^2$ score shows that the baseline model has an accuracy of 69\% while the GCN has an accuracy of 99\%, indicating a very accurate fit between the predictions and the actual data. The difference in accuracy between the two models can be seen by comparing the Figures \ref{fig:sfig1} and \ref{fig:sfig2}.\\
+The following Table \ref{tab:paper01performancecomparisonwater} compares the performance metrics of the baseline and GCN models trained on the water dataset. It can be seen that there is not much difference in the training time of the different models, while interestingly the GCN trains faster than the baseline model with the same hyperparameters. However, the baseline neural network provides more accurate results, with the MSE and RMSE values being smaller than those of the GCN. Also, the accuracy of the baseline model is 99.1\%, while the accuracy of the GCN is only 97.6\%. 
 
-The following Table \ref{tab:paper01performancecomparisonwater} compares the performance metrics of the baseline and GCN models trained on the water dataset. It can be seen that there is not much difference in the training time of the different models, while interestingly the GCN trains faster than the baseline model with the same hyperparameters. However, the baseline neural network provides more accurate results, with the MSE and RMSE values being smaller than those of the GCN. Also, the accuracy of the baseline model is 99.1\%, while the accuracy of the GCN is only 97.6\%.
-
-\begin{table}[h]
+\begin{table}[h!]
     \centering
     \captionsetup{justification=centering}
     \resizebox{\textwidth}{!}{
@@ -153,6 +155,7 @@ The following Table \ref{tab:paper01performancecomparisonwater} compares the per
        }
        \caption[Comparison of performance metrics of the developed model (water dataset)]{\label{tab:paper01performancecomparisonwater} Comparison of performance metrics of the developed model [water dataset]}
 \end{table}
+
 
 While the training of the models with the QM9 dataset shows very different results, the Figures of \ref{fig:sfig3} and \ref{fig:sfig4} show that there is only a small difference in terms of accuracy when training a baseline and a GCN model with the simpler water dataset.
 
@@ -199,11 +202,11 @@ Overall, the conducted research process has proven to be suitable for the litera
 
 \subsection{Summary}
 
-Within the scope of the literature review, in total 11 different architectures or approaches for the implementation of GNNs could be identified and further categorized. Furthermore, an overview over the differences between the identified approaches and architectures was given. Utilizing the information gained in the scope of the literature review, the convolutional approach of a GNN was used for the development of a GNN that predicts the potential energy surface of a molecule. By using the in the discipline of computational chemistry frequently used QM9 dataset for the development of the model, the results can be adapted to other datasets that contain different information, e.g. in form of other molecules. 
+Within the scope of the literature review, in total 11 different architectures or approaches for the implementation of GNNs could be identified and further categorized. Furthermore, an overview over the differences between the identified approaches and architectures was given. Utilizing the information gained in the scope of the literature review, the convolutional approach of a GNN was used for the development of a GNN that predicts the potential energy surface of a molecule. By using the in the discipline of computational chemistry frequently used QM9 dataset for the development of the model, the results can be adapted to other datasets that contain different information, e.g. in form of other molecules.  
 
 \subsection{Critical Reflection}
 As mentioned before, the research methodology was suitable for analyzing the findable literature and for the prototypical implementation of the GNN. However, this work also has its limitations. Further approaches or architectures of GNNs could have been investigated to be used for the prediction of potential energy surfaces. By doing so, a comparison between the results, e.g. with measured performance metrics, could have taken place. In addition, the developed GNN could have been tested with other datasets than the QM9 dataset, to be able to evaluate its general validity. These aspects might have identified important requirements that are not included in the current iteration of the prototypical GNN.
 
 \subsection{Outlook}
 
-The insights in gained in this paper provide a starting point for future research. The QM9 dataset, that was used in this paper, provides quantum chemical properties at DFT level. Besides, the prediction of potential energy surfaces and other relevant properties proceeds at the molecular and atomic level. The advancing development of quantum computers raises the question, if machine learning models like GNNs that compute quantum properties like potential surface areas can be realized on quantum computers. While there already exist first approaches of quantum graph neural networks in the literature \cite{verdon_quantum_2019,beer_quantum_2021,ai_decompositional_2023}, the results of the literature review and the developed GNN in this paper serve as a starting point for a further investigation in the field of quantum graph neural networks. 
+The insights in gained in this paper provide a starting point for future research. The QM9 dataset, that was used in this paper, provides quantum chemical properties at DFT level. Besides, the prediction of potential energy surfaces and other relevant properties proceeds at the molecular and atomic level. The advancing development of quantum computers raises the question, if machine learning models like GNNs that compute quantum properties like potential energy surfaces can be realized on quantum computers. While there already exist first approaches of quantum graph neural networks in the literature \cite{verdon_quantum_2019,beer_quantum_2021,ai_decompositional_2023}, the results of the literature review and the developed GNN in this paper serve as a starting point for a further investigation in the field of quantum graph neural networks. 
