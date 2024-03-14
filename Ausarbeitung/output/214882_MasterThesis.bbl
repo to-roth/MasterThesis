@@ -1118,6 +1118,49 @@
       \verb http://www.chinesechemsoc.org/doi/10.31635/ccschem.022.202201796
       \endverb
     \endentry
+    \entry{li2023predicting}{article}{}
+      \name{author}{5}{}{%
+        {{hash=994e9376ceee042eb92f44e3276bd7e4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Haoyu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6c0cfadf9305fcde85fe8dccf7f1e80a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shichang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c2dc73a7d06ad6e8cf4eba1f0104933c}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Longwen},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a2b95f85241a653946f45e904f1f39ca}{%
+           family={Bauchy},
+           familyi={B\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=454756d60989b287a8ab32a1cf513bfe}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yizhou},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c488a696596ca34a1941a5a6740616d}
+      \strng{fullhash}{7e2d67307fa2cd5a7a9220e06d9db6c2}
+      \strng{bibnamehash}{7e2d67307fa2cd5a7a9220e06d9db6c2}
+      \strng{authorbibnamehash}{7e2d67307fa2cd5a7a9220e06d9db6c2}
+      \strng{authornamehash}{1c488a696596ca34a1941a5a6740616d}
+      \strng{authorfullhash}{7e2d67307fa2cd5a7a9220e06d9db6c2}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2401.08627}
+      \field{title}{Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks}
+      \field{year}{2023}
+    \endentry
     \entry{duvenaud2015convolutional}{article}{}
       \name{author}{7}{}{%
         {{hash=9ce314bbc01ded96b9d157f49b54f61a}{%
@@ -1162,8 +1205,8 @@
       \strng{authorbibnamehash}{258b6d6b42f59ef0f724608508d621d3}
       \strng{authornamehash}{258b6d6b42f59ef0f724608508d621d3}
       \strng{authorfullhash}{9e907d0259621e1871160a3b8985b5be}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Advances in neural information processing systems}
@@ -1278,6 +1321,67 @@
       \verb http://arxiv.org/abs/2003.03123
       \endverb
       \keyw{Computer Science - Machine Learning,Physics - Computational Physics,Statistics - Machine Learning}
+    \endentry
+    \entry{mayring2010qualitative}{article}{}
+      \name{author}{2}{}{%
+        {{hash=354e18c4014b84fb9bd1af1fc4d7371e}{%
+           family={Mayring},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=72b15a8e9cb07d00749f1c8c0f5e92ee}{%
+           family={Fenzl},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{fullhash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{bibnamehash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{authorbibnamehash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{authornamehash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{authorfullhash}{ad3a7432b48ffbb316cb4204d3982989}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Qualitative Forschung Ein Handbuch (Qualitative Research: A Handbook)}
+      \field{title}{Qualitative inhaltsanalyse [Qualitative content analysis]}
+      \field{year}{2010}
+      \field{pages}{468\bibrangedash 475}
+      \range{pages}{8}
+    \endentry
+    \entry{cruzes2011recommended}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=f9821201496583060ea8d9137af0b2cb}{%
+           family={Cruzes},
+           familyi={C\bibinitperiod},
+           given={Daniela\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3ebcff558cb954377ad064d0332b04b4}{%
+           family={Dyba},
+           familyi={D\bibinitperiod},
+           given={Tore},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{952911c632690d41edce13a2643114e1}
+      \strng{fullhash}{952911c632690d41edce13a2643114e1}
+      \strng{bibnamehash}{952911c632690d41edce13a2643114e1}
+      \strng{authorbibnamehash}{952911c632690d41edce13a2643114e1}
+      \strng{authornamehash}{952911c632690d41edce13a2643114e1}
+      \strng{authorfullhash}{952911c632690d41edce13a2643114e1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 international symposium on empirical software engineering and measurement}
+      \field{title}{Recommended steps for thematic synthesis in software engineering}
+      \field{year}{2011}
+      \field{pages}{275\bibrangedash 284}
+      \range{pages}{10}
     \endentry
     \entry{noauthor_torch_geometricdatasetsqm9_nodate}{misc}{}
       \name{author}{1}{}{%
@@ -1680,8 +1784,8 @@
       \strng{authorbibnamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
       \strng{authornamehash}{e04e5808dc0d0ec733212b81e1f8c78a}
       \strng{authorfullhash}{e04e5808dc0d0ec733212b81e1f8c78a}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:1609.02907}
@@ -1762,7 +1866,7 @@
       \strng{authorbibnamehash}{8059733f86375e311bdb94a651216b51}
       \strng{authornamehash}{00199084b9f016fbbc3b21339e6a5e91}
       \strng{authorfullhash}{8059733f86375e311bdb94a651216b51}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -1846,7 +1950,7 @@
       \strng{authorbibnamehash}{fdf103087c64fa55ae46cd66cac2c875}
       \strng{authornamehash}{60194772db8e2fd7f4a0201722879ab8}
       \strng{authorfullhash}{fdf103087c64fa55ae46cd66cac2c875}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -2341,6 +2445,38 @@
       \field{pages}{667\bibrangedash 676}
       \range{pages}{10}
     \endentry
+    \entry{Swayne_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=dac25342c4344f6d779213504cc04a41}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{dac25342c4344f6d779213504cc04a41}
+      \strng{fullhash}{dac25342c4344f6d779213504cc04a41}
+      \strng{bibnamehash}{dac25342c4344f6d779213504cc04a41}
+      \strng{authorbibnamehash}{dac25342c4344f6d779213504cc04a41}
+      \strng{authornamehash}{dac25342c4344f6d779213504cc04a41}
+      \strng{authorfullhash}{dac25342c4344f6d779213504cc04a41}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quantum Insider}
+      \field{month}{7}
+      \field{title}{Google Claims Latest Quantum Experiment Would Take Decades on Classical Computer}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://thequantuminsider.com/2023/07/04/google-claims-latest-quantum-experiment-would-take-decades-on-classical-computer/
+      \endverb
+      \verb{url}
+      \verb https://thequantuminsider.com/2023/07/04/google-claims-latest-quantum-experiment-would-take-decades-on-classical-computer/
+      \endverb
+    \endentry
     \entry{qcnn}{misc}{}
       \name{author}{1}{}{%
         {{hash=916c5d073a44f3e42a1a091a1e662829}{%
@@ -2356,8 +2492,8 @@
       \strng{authorbibnamehash}{916c5d073a44f3e42a1a091a1e662829}
       \strng{authornamehash}{916c5d073a44f3e42a1a091a1e662829}
       \strng{authorfullhash}{916c5d073a44f3e42a1a091a1e662829}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Quantum Convolution Neural Network}
@@ -2372,6 +2508,48 @@
       \verb{url}
       \verb https://qiskit-community.github.io/qiskit-machine-learning/tutorials/11_quantum_convolutional_neural_networks.html
       \endverb
+    \endentry
+    \entry{kreplin2023squlearn}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9f4fcba194852b0e19db6225a28c9443}{%
+           family={Kreplin},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=39bd8734581f8f561163ecb2a935b453}{%
+           family={Willmann},
+           familyi={W\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=937d8aa1c517d32d52b700efa46757bb}{%
+           family={Schnabel},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9c620c9c8f0e1818ae156129542311fb}{%
+           family={Rapp},
+           familyi={R\bibinitperiod},
+           given={Frederic},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5ae1d28a31e21a9d6d2f004342252e2d}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a835d14d15853b8df9730a6ac2fa1625}
+      \strng{fullhash}{7da2d01b5aa06de22335066de954efd6}
+      \strng{bibnamehash}{7da2d01b5aa06de22335066de954efd6}
+      \strng{authorbibnamehash}{7da2d01b5aa06de22335066de954efd6}
+      \strng{authornamehash}{a835d14d15853b8df9730a6ac2fa1625}
+      \strng{authorfullhash}{7da2d01b5aa06de22335066de954efd6}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2311.08990}
+      \field{title}{sQUlearn - A Python Library for Quantum Machine Learning}
+      \field{year}{2023}
     \endentry
   \enddatalist
 \endrefsection

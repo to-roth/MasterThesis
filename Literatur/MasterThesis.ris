@@ -869,3 +869,57 @@ Y2  - 2024/03/08/14:27:27
 L1  - https://proceedings.neurips.cc/paper_files/paper/2015/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf
 ER  - 
 
+TY  - GEN
+TI  - sQUlearn $\unicode{x2013}$ A Python Library for Quantum Machine Learning
+AU  - Kreplin, David A.
+AU  - Willmann, Moritz
+AU  - Schnabel, Jan
+AU  - Rapp, Frederic
+AU  - Roth, Marco
+AB  - sQUlearn introduces a user-friendly, NISQ-ready Python library for quantum machine learning (QML), designed for seamless integration with classical machine learning tools like scikit-learn. The library's dual-layer architecture serves both QML researchers and practitioners, enabling efficient prototyping, experimentation, and pipelining. sQUlearn provides a comprehensive toolset that includes both quantum kernel methods and quantum neural networks, along with features like customizable data encoding strategies, automated execution handling, and specialized kernel regularization techniques. By focusing on NISQ-compatibility and end-to-end automation, sQUlearn aims to bridge the gap between current quantum computing capabilities and practical machine learning applications.
+DA  - 2023/11/15/
+PY  - 2023
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/2311.08990
+Y2  - 2024/03/12/14:02:25
+L1  - https://arxiv.org/pdf/2311.08990.pdf
+L2  - https://arxiv.org/abs/2311.08990
+KW  - Computer Science - Machine Learning
+KW  - Quantum Physics
+ER  - 
+
+TY  - GEN
+TI  - Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks
+AU  - Li, Haoyu
+AU  - Zhang, Shichang
+AU  - Tang, Longwen
+AU  - Bauchy, Mathieu
+AU  - Sun, Yizhou
+AB  - Metallic Glasses (MGs) are widely used disordered materials. Understanding the relationship between the local structure and physical properties of MGs is one of the greatest challenges for both material science and condensed matter physics. In this work, we utilize Graph Neural Networks (GNNs) to model the atomic graph structure and study the connection between the structure and the corresponding local energy barrier, which is believed to govern many critical physical properties in MGs. One of our key contributions is to propose a novel Symmetrized GNN (SymGNN) model for predicting the energy barriers, which is invariant under orthogonal transformations of the structure, e.g., rotations and reflections. Such invariance is a desired property that standard GNNs like Graph Convolutional Networks cannot capture. SymGNNs handle the invariance by aggregating over orthogonal transformations of the graph structure for representation learning, and an optimal distribution over all 3D orthogonal transformations $\mathcal{O}_3$ is learned to maximize the benefit of invariance. We demonstrate in our experiments that SymGNN can significantly improve the energy barrier prediction over other GNNs and non-graph machine learning models. With such an accurate model, we also apply graph explanation algorithms to better reveal the structure-property relationship of MGs. Our GNN framework allows effective prediction of material physical properties and bolsters material science research through the use of AI models.
+DA  - 2023/12/07/
+PY  - 2023
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/2401.08627
+Y2  - 2024/03/13/07:50:20
+L1  - https://arxiv.org/pdf/2401.08627.pdf
+L2  - https://arxiv.org/abs/2401.08627
+KW  - Computer Science - Machine Learning
+KW  - Condensed Matter - Materials Science
+KW  - Condensed Matter - Disordered Systems and Neural Networks
+ER  - 
+
+TY  - ELEC
+TI  - Google Claims Latest Quantum Experiment Would Take Decades on Classical Computer
+AU  - Swayne, Matt
+T2  - The Quantum Insider
+AB  - The Quantum Insider (TQI) is the leading online resource dedicated exclusively to Quantum Computing.
+DA  - 2023/07/04/T09:32:42+00:00
+PY  - 2023
+LA  - en-US
+UR  - https://thequantuminsider.com/2023/07/04/google-claims-latest-quantum-experiment-would-take-decades-on-classical-computer/
+Y2  - 2024/03/14/08:27:56
+L2  - https://thequantuminsider.com/2023/07/04/google-claims-latest-quantum-experiment-would-take-decades-on-classical-computer/
+ER  - 
+
